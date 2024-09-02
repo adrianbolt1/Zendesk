@@ -1,9 +1,6 @@
 # Zendesk
-<p align="center">
-  
-(https://github.com/user-attachments/assets/d93024bf-3c87-42f2-992a-de36ad5eeee1)
 
-</p>
+![Zendesk-Logo](https://github.com/user-attachments/assets/6efa0de6-2cc6-4dc8-a42b-f7ede08f2cb9)
 
 
 
