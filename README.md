@@ -1,9 +1,10 @@
 # Zendesk
 <p align="center">
+  
+(https://github.com/user-attachments/assets/d93024bf-3c87-42f2-992a-de36ad5eeee1)
 
+</p>
 
-
-![Zendesk-Logo](https://github.com/user-attachments/assets/d93024bf-3c87-42f2-992a-de36ad5eeee1)
 
 
 <h1> Youtube Tutorial</h1>
